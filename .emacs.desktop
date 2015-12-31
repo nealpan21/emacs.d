@@ -1,0 +1,280 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Dec 31 10:09:35 2015
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22148 36447 864417 482000) (desktop . "206") "neo@neo-pcu" nil nil ((((font-backend xft x) (font . "-unknown-Ubuntu Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono 13") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (foreground-color . "#839496") (background-color . "#002b36") (mouse-color . "black") (border-color . "#073642") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen . fullheight) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#93a1a1") (sticky) (environment) (frameset--id . "7D52-6B9E-8F8D-BD89") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (user-size . t) (visibility . t) (height . 43) (width . 84) (left . 790) (top . 14)) ((min-height . 4) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 76) (min-pixel-width . 90) (min-pixel-height-ignore . 76) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 19) (min-pixel-width-safe . 18)) leaf (pixel-width . 790) (pixel-height . 805) (total-width . 87) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (buffer "CommentsController.php —£À Admin" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins 2) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 1374) (start . 773))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("package-install" "sr-speedbar-open" "speedbar" "indent-according-to-mode" "sr-speedbar-close" "sr-speedbar-open" "sr-speedbar-close" "sr-speedbar-open" "package-install" "customize" "package-install" "indent-region" "isearch-forward" "search-forward" "delete-horizontal-space" "recentf-open-more-files" "linum-mode" "package-install" "iimage-mode" "org-indent-mode" "package-list-packages" "package-install" "customize" "package-install" "package-refresh-contents" "packemacs-starter" "emacs-starter" "customize" "package-list-packages" "load-theme"))
+(setq face-name-history nil)
+(setq file-name-history '("/var/www/html/laravel/learnlaravel5/.env" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054326_create_articles_table.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054335_create_pages_table.php" "/var/www/html/laravel/learnlaravel5/database/seeds/DatabaseSeeder.php" "/var/www/html/laravel/learnlaravel5/database/seeds/PageTableSeeder.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/AdminHomeController.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/create.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/HomeController.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/PagesController.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_30_063251_create_comments_table.php" "/var/www/html/laravel/learnlaravel5/app/Page.php" "/var/www/html/laravel/learnlaravel5/app/Comment.php" "/var/www/html/laravel/learnlaravel5/resources/views/home.blade.php" "/var/www/html/laravel/learnlaravel5/resources/views/pages/show.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/CommentsController.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/PagesController.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/resources/views/AdminHome.blade.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/comments/index.blade.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/edit.blade.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/comments/edit.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/CommentsController.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/comments/edit.blade.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/edit.blade.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/comments/index.blade.php" "/var/www/html/laravel/learnlaravel5/resources/views/AdminHome.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/CommentsController.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/CommentsController.php" "/var/www/html/laravel/learnlaravel5/resources/views/home.blade.php" "/var/www/html/laravel/learnlaravel5/resources/views/pages/show.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/CommentsController.php" "/var/www/html/laravel/learnlaravel5/app/Comment.php" "/var/www/html/laravel/learnlaravel5/app/Page.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_30_063251_create_comments_table.php" "/var/www/html/laravel/learnlaravel5/resources/views/pages/show.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/PagesController.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/PagesController.php" "~/.emacs.d/elpa/goto-chg-20131228.659/goto-chg-autoloads.el" "/var/www/html/laravel/learnlaravel5/resources/views/home.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/HomeController.php" "/var/www/html/laravel/learnlaravel5/.env" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054326_create_articles_table.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054335_create_pages_table.php" "/var/www/html/laravel/learnlaravel5/database/seeds/DatabaseSeeder.php" "/var/www/html/laravel/learnlaravel5/database/seeds/PageTableSeeder.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/AdminHomeController.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/PagesController.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/create.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/HomeController.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/.env" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054326_create_articles_table.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054335_create_pages_table.php" "/var/www/html/laravel/learnlaravel5/database/seeds/DatabaseSeeder.php" "/var/www/html/laravel/learnlaravel5/database/seeds/PageTableSeeder.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/AdminHomeController.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/PagesController.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/create.blade.php" "/var/www/html/laravel/learnlaravel5/.env" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054326_create_articles_table.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054335_create_pages_table.php" "/var/www/html/laravel/learnlaravel5/database/seeds/DatabaseSeeder.php" "/var/www/html/laravel/learnlaravel5/database/seeds/PageTableSeeder.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/AdminHomeController.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/PagesController.php" "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/create.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/PagesController.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/.env" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054326_create_articles_table.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054335_create_pages_table.php" "/var/www/html/laravel/learnlaravel5/database/seeds/DatabaseSeeder.php" "/var/www/html/laravel/learnlaravel5/database/seeds/PageTableSeeder.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/AdminHomeController.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/database/seeds/PageTableSeeder.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/.env" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054326_create_articles_table.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054335_create_pages_table.php" "/var/www/html/laravel/learnlaravel5/database/seeds/PageTableSeeder.php" "/var/www/html/laravel/learnlaravel5/database/seeds/DatabaseSeeder.php" "/var/www/html/laravel/learnlaravel5/database/seeds/PageTableSeeder.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054335_create_pages_table.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054326_create_articles_table.php" "/var/www/html/laravel/learnlaravel5/.env" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_07_075727_create_comments_table.php" "/var/www/html/laravel/learnlaravel5/app/Page.php" "/var/www/html/laravel/learnlaravel5/app/Comment.php" "/var/www/html/laravel/learnlaravel5/resources/views/pages/show.blade.php" "/var/www/html/laravel/learnlaravel5/resources/views/app.blade.php" "/var/www/html/laravel/learnlaravel5/app/Http/routes.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/AdminHomeController.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/CommentsController.php" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/CommentsController.php"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ido-buffer-history '("CommentsController.php —£À Admin" "routes.php" "PagesController.php —£À Controllers" "routes.php" "CommentsController.php" "routes.php" "CommentsController.php" "show.blade.php" "routes.php" "CommentsController.php" "routes.php" "home.blade.php" "HomeController.php" "PagesController.php" "HomeController.php" "routes.php" "HomeController.php" "routes.php" nil "show.blade.php" "*scratch*" "*Compile-Log*" "*Messages*" "*scratch*" "supplyrelease.html" ".env" "divc" "div" "Acquisition" "cn-plusone" "drupal8_tu" "2015_12_05_093119_create_articles_table.php" "2015_12_05_093128_create_pages_table.php" "2015_12_07_075727_create_comments_table.php" "AdminHome.blade.php" "AdminHomeController.php" "show.blade.php" "routes.php" "index.php" "home.blade.php" "edit.blade.php" "default.blade.php" "create.blade.php" "PagesController.php" "PagesController.php —£À Admin" "PageTableSeeder.php" "Page.php" "DatabaseSeeder.php" "CommentsController.php" "Comment.php" "AloneController.class.php" "PagesController.php" "AdminHome.blade.php" "divc" "AdminHome.blade.php" "AdminHomeController.php" "phpinfo.php" "orgmode1.org" "*Compile-Log*" "TUTORIAL" "orgmode.org" "phpinfo.php"))
+(setq ido-last-directory-list '(("/var/www/" . "html/") ("/var/www/html/work/cn-plusone/Application/Home/View/default/" . "Member/") ("/var/www/html/work/cn-plusone/Application/Home/View/" . "default/") ("/var/www/html/work/cn-plusone/Application/Home/" . "Controller/") ("/var/www/html/work/cn-plusone/Application/Admin/View/" . "default/") ("/var/www/html/work/cn-plusone/Application/Admin/" . "Controller/") ("/var/www/html/work/cn-plusone/Application/" . "Admin/") ("/var/www/html/laravel/learnlaravel5/resources/views/admin/" . "comments/") ("/var/www/html/laravel/learnlaravel5/resources/views/" . "admin/") ("/var/www/html/laravel/learnlaravel5/resources/" . "views/") ("/var/www/html/laravel/learnlaravel5/app/Http/Controllers/" . "Admin/") ("/var/www/html/laravel/learnlaravel5/app/Http/" . "Controllers/") ("/var/www/html/laravel/learnlaravel5/database/" . "migrations/") ("/var/www/html/laravel/learnlaravel5/app/" . "Http/") ("/var/www/html/laravel/learnlaravel5/" . "resources/") ("/var/www/html/laravel/" . "learnlaravel5/") ("/var/www/html/lavarel/learnlaravel5/" . "public/") ("/var/www/html/lavarel/" . "learnlaravel5/") ("/home/neo/.emacs.d/elpa/yasnippet-20151108.1505/snippets/" . "php-mode/") ("/home/neo/.emacs.d/elpa/yasnippet-20151108.1505/" . "snippets/") ("/home/neo/.emacs.d/elpa/" . "yasnippet-20151108.1505/") ("/home/neo/.emacs.d/" . "elpa/") ("/home/neo/" . ".emacs.d/") ("/var/www/html/work/cn-plusone/Addons/" . "Acquisition/") ("/var/www/html/work/cn-plusone/" . "Application/") ("/var/www/html/work/" . "cn-plusone/") ("/var/www/html/" . "laravel/") ("/var/" . "www/") ("/home/neo/‘ÎÄ‘µµ/" . "org/")))
+(setq ido-work-directory-list '("/var/www/html/laravel/learnlaravel5/resources/views/admin/comments/" "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/" "/var/www/html/laravel/learnlaravel5/resources/views/" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/" "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/" "/var/www/html/laravel/learnlaravel5/resources/views/pages/" "/var/www/html/laravel/learnlaravel5/app/" "/var/www/html/laravel/learnlaravel5/database/migrations/" "/var/www/html/laravel/learnlaravel5/app/Http/" "/var/www/html/laravel/learnlaravel5/database/seeds/" "/var/www/html/laravel/learnlaravel5/" "/var/www/html/work/cn-plusone/Application/Admin/Controller/" "/var/www/html/work/cn-plusone/Application/Home/Controller/" "/var/www/html/work/cn-plusone/Application/Home/View/default/Member/" "/var/www/html/laravel/learnlaravel5/resources/views/_layouts/" "/var/www/html/test/" "/home/neo/.emacs.d/elpa/yasnippet-20151108.1505/snippets/php-mode/" "/var/www/html/laravel/learnlaravel5/public/" "/var/www/html/lavarel/learnlaravel5/public/" "/var/www/html/work/cn-plusone/" "/var/www/html/" "/var/www/html/work/cn-plusone/Addons/Acquisition/" "/var/www/html/work/" "/home/neo/‘ÎÄ‘µµ/org/"))
+(setq ido-work-file-list '("edit.blade.php" "index.blade.php" "AdminHome.blade.php" "CommentsController.php" "home.blade.php" "show.blade.php" "Comment.php" "Page.php" "2015_12_30_063251_create_comments_table.php" "PagesController.php"))
+(setq minibuffer-history '("79" "17" "evil" "33" "15" "17" "29" "9999" "0" "100" "w3m" "one" "really" "100" "20" "sr-speedbar" "tabbar" "yasnippet" "sanityinc-solarized-dark"))
+(setq org-clock-history nil)
+(setq org-refile-history nil)
+(setq org-tags-history '("work"))
+(setq query-replace-history nil)
+(setq read-expression-history '("w"))
+(setq regexp-history nil)
+(setq regexp-search-ring '("validato" "url"))
+(setq register-alist '((48 . "@extends('app')\n\n@extends('content')\n<div class=\"container\">\n    <div class=\"row\">\n        <div class=\"col-md-10 col-md-offset-1\">\n            <div class=\"pannel pannel-default\">\n                <div class=\"pannel-heading\">‘ÐÂ‘Ôö Page</div>\n                <div class=\"pannel-body\">\n                    @if(count($errors) > 0)\n                        <div class=\"alert alert-danger\">\n                            <strong>Whoops!</strong>There were some problems with your input.<br><br>\n                            <ul>\n                                @foreach($errors->all() as $error)\n                                    <li>{{$error}}</li>\n                                @endforeach\n                            </ul>\n                    @endif\n                    <form action=\"{{ URL('admin/pages') }}\" method=\"POST\">\n                        <input type=\"hidden\" name=\"_token\" value=\"{{ csrf_token() }}\">\n                        <input type=\"text\" name=\"title\" class=\"form-control\" required=\"required\">\n                        <br />\n                        <button class=\"btn btn-lg btn-info\">‘ÐÂ‘Ôö Page</button>\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>")))
+(setq search-ring '("index" "supplyrelease/" "supplyrelease" "store" "index" "	" "<" "Schema" "Schhe" "Schema::create" "ur" "url" "one" "yasnippet"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/CommentsController.php"
+  "CommentsController.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  1374
+  '(1362 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/resources/views/admin/comments/edit.blade.php"
+  "edit.blade.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  2220
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/edit.blade.php"
+  "edit.blade.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/resources/views/admin/comments/index.blade.php"
+  "index.blade.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  14
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/resources/views/AdminHome.blade.php"
+  "AdminHome.blade.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/app/Http/routes.php"
+  "routes.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  1261
+  '(635 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/PagesController.php"
+  "PagesController.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  190
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/CommentsController.php"
+  "CommentsController.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  741
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/resources/views/pages/show.blade.php"
+  "show.blade.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  1001
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/resources/views/home.blade.php"
+  "home.blade.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  180
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/app/Comment.php"
+  "Comment.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  169
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/app/Page.php"
+  "Page.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  188
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_30_063251_create_comments_table.php"
+  "2015_12_30_063251_create_comments_table.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  541
+  '(7 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/PagesController.php"
+  "PagesController.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  352
+  '(470 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/HomeController.php"
+  "HomeController.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  53
+  '(796 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/create.blade.php"
+  "create.blade.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  1706
+  '(1 nil)
+  t
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/AdminHomeController.php"
+  "AdminHomeController.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  477
+  '(150 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/database/seeds/PageTableSeeder.php"
+  "PageTableSeeder.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  114
+  '(113 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/database/seeds/DatabaseSeeder.php"
+  "DatabaseSeeder.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  302
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054335_create_pages_table.php"
+  "2015_12_22_054335_create_pages_table.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  477
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/database/migrations/2015_12_22_054326_create_articles_table.php"
+  "2015_12_22_054326_create_articles_table.php"
+  'php-mode
+  '(abbrev-mode yas-minor-mode anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode flycheck-mode)
+  532
+  '(227 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/var/www/html/laravel/learnlaravel5/.env"
+  ".env"
+  'fundamental-mode
+  '(yas-minor-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode flycheck-mode)
+  141
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+

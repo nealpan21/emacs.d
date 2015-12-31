@@ -1,0 +1,182 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/var/www/" . "html/")
+ ("/var/www/html/work/cn-plusone/Application/Home/View/default/" . "Member/")
+ ("/var/www/html/work/cn-plusone/Application/Home/View/" . "default/")
+ ("/var/www/html/work/cn-plusone/Application/Home/" . "Controller/")
+ ("/var/www/html/work/cn-plusone/Application/Admin/View/" . "default/")
+ ("/var/www/html/work/cn-plusone/Application/Admin/" . "Controller/")
+ ("/var/www/html/work/cn-plusone/Application/" . "Admin/")
+ ("/var/www/html/laravel/learnlaravel5/resources/views/admin/" . "comments/")
+ ("/var/www/html/laravel/learnlaravel5/resources/views/" . "admin/")
+ ("/var/www/html/laravel/learnlaravel5/resources/" . "views/")
+ ("/var/www/html/laravel/learnlaravel5/app/Http/Controllers/" . "Admin/")
+ ("/var/www/html/laravel/learnlaravel5/app/Http/" . "Controllers/")
+ ("/var/www/html/laravel/learnlaravel5/database/" . "migrations/")
+ ("/var/www/html/laravel/learnlaravel5/app/" . "Http/")
+ ("/var/www/html/laravel/learnlaravel5/" . "resources/")
+ ("/var/www/html/laravel/" . "learnlaravel5/")
+ ("/var/www/html/lavarel/learnlaravel5/" . "public/")
+ ("/var/www/html/lavarel/" . "learnlaravel5/")
+ ("/home/neo/.emacs.d/elpa/yasnippet-20151108.1505/snippets/" . "php-mode/")
+ ("/home/neo/.emacs.d/elpa/yasnippet-20151108.1505/" . "snippets/")
+ ("/home/neo/.emacs.d/elpa/" . "yasnippet-20151108.1505/")
+ ("/home/neo/.emacs.d/" . "elpa/")
+ ("/home/neo/" . ".emacs.d/")
+ ("/var/www/html/work/cn-plusone/Addons/" . "Acquisition/")
+ ("/var/www/html/work/cn-plusone/" . "Application/")
+ ("/var/www/html/work/" . "cn-plusone/")
+ ("/var/www/html/" . "laravel/")
+ ("/var/" . "www/")
+ ("/home/neo/文档/" . "org/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/var/www/html/laravel/learnlaravel5/resources/views/admin/comments/"
+ "/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/"
+ "/var/www/html/laravel/learnlaravel5/resources/views/"
+ "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/"
+ "/var/www/html/laravel/learnlaravel5/app/Http/Controllers/"
+ "/var/www/html/laravel/learnlaravel5/resources/views/pages/"
+ "/var/www/html/laravel/learnlaravel5/app/"
+ "/var/www/html/laravel/learnlaravel5/database/migrations/"
+ "/var/www/html/laravel/learnlaravel5/app/Http/"
+ "/var/www/html/laravel/learnlaravel5/database/seeds/"
+ "/var/www/html/laravel/learnlaravel5/"
+ "/var/www/html/work/cn-plusone/Application/Admin/Controller/"
+ "/var/www/html/work/cn-plusone/Application/Home/Controller/"
+ "/var/www/html/work/cn-plusone/Application/Home/View/default/Member/"
+ "/var/www/html/laravel/learnlaravel5/resources/views/_layouts/"
+ "/var/www/html/test/"
+ "/home/neo/.emacs.d/elpa/yasnippet-20151108.1505/snippets/php-mode/"
+ "/var/www/html/laravel/learnlaravel5/public/"
+ "/var/www/html/lavarel/learnlaravel5/public/"
+ "/var/www/html/work/cn-plusone/"
+ "/var/www/html/"
+ "/var/www/html/work/cn-plusone/Addons/Acquisition/"
+ "/var/www/html/work/"
+ "/home/neo/文档/org/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "edit.blade.php"
+ "index.blade.php"
+ "AdminHome.blade.php"
+ "CommentsController.php"
+ "home.blade.php"
+ "show.blade.php"
+ "Comment.php"
+ "Page.php"
+ "2015_12_30_063251_create_comments_table.php"
+ "PagesController.php"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/var/www/html/laravel/learnlaravel5/resources/views/admin/" (22147 37674 607144 836000) "pages/" "../" "./" "comments/")
+
+ ("/var/www/html/laravel/learnlaravel5/resources/views/" (22147 38921 352393 839000) "welcome.blade.php==" "errors/" "AdminHome.blade.php" "pages/" "../" "app.blade.php" "_layouts/" "admin/" "auth/" "./" "home.blade.php" "vendor/" "emails/")
+
+ ("/var/www/html/laravel/learnlaravel5/resources/views/admin/comments/" (22147 38866 218056 475000) "../" "./" "index.blade.php")
+
+ ("/var/www/html/laravel/learnlaravel5/resources/views/pages/" (22147 36070 402435 784000) "../" "./" "show.blade.php")
+
+ ("/var/www/html/laravel/learnlaravel5/app/Http/Controllers/Admin/" (22147 37307 439984 962000) "PagesController.php" "AdminHomeController.php" "CommentsController.php" "../" "./")
+
+ ("/var/www/html/laravel/learnlaravel5/app/Http/" (22147 36330 770197 968000) "routes.php" "Kernel.php" "../" "Middleware/" "./" "Requests/" "Controllers/")
+
+ ("/var/www/html/laravel/learnlaravel5/app/Http/Controllers/" (22147 32391 374841 358000) "PagesController.php" "HomeController.php" "Controller.php" "CommentsController.php" "../" "Admin/" "./" "WelcomeController.php==" "Auth/")
+
+ ("/var/www/html/laravel/learnlaravel5/app/" (22147 31663 907094 672000) "Providers/" "Article.php" "User.php" "Handlers/" "Page.php" "../" "Comment.php" "Exceptions/" "Http/" "Commands/" "Events/" "./" "Services/" "Console/")
+
+ ("/var/www/html/laravel/learnlaravel5/database/migrations/" (22147 31521 542514 612000) "2015_12_30_063251_create_comments_table.php" "2014_10_12_100000_create_password_resets_table.php" "2015_12_22_054335_create_pages_table.php" "2015_12_22_054326_create_articles_table.php" "../" "2014_10_12_000000_create_users_table.php" "./" ".gitkeep")
+
+ ("/var/www/html/" (22137 5697 902511 725000) "images/" "index.html" "test/" "test.php" "phpinfo.php" "canconfair.php" "222.php" "Uploads/" "destoon/" "无标题文档" "phpMyAdmin-4.5.2-all-languages(2).zip" "../" "phpmyadmin/" "phpmyadmin==/" "laravel/" "thinkphp/" "css/" "phpmailer/" "drupal/" "work/" "js/" "confirm.php" "example/" "lib/" "./" "save.php" "contact/" "test.php~" ".idea/" "magento/" "cantonfair/")
+
+ ("/var/www/html/laravel/learnlaravel5/resources/views/_layouts/" (22139 18548 975407 318000) "default.blade.php" "../" "./")
+
+ ("/var/www/html/laravel/learnlaravel5/resources/views/admin/pages/" (22138 26873 119643 802000) "../" "create.blade.php" "./" "edit.blade.php")
+
+ ("/var/www/html/laravel/learnlaravel5/" (22136 63333 536944 945000) "storage/" "phpspec.yml" ".env.example" ".env" "../" "composer.json" "artisan" "database/" "package.json" ".gitignore" "app/" "server.php" "gulpfile.js" "tests/" "./" "resources/" "vendor/" "bootstrap/" ".gitattributes" ".idea/" "readme.md" "composer.lock" "config/" "phpunit.xml" "public/")
+
+ ("/var/www/html/laravel/" (22136 42427 923861 693000) "../" "learnlaravel5/" "./")
+
+ ("/var/www/html/laravel/learnlaravel5/database/seeds/" (22136 59967 463318 579000) "DatabaseSeeder.php" "PageTableSeeder.php" "../" "./" ".gitkeep")
+
+ ("/var/www/html/work/cn-plusone/Application/Home/Controller/" (22118 14592 494121 378000) "PayController.class.php" "HomeController.class.php" "../" "ApiController.class.php" "CompanyController.class.php" "AddonsController.class.php" "FileController.class.php" "IndexController.class.php" "MemberController.class.php" "UserController.class.php" "./" "EmptyController.class.php" "ArticleController.class.php")
+
+ ("/var/www/html/work/cn-plusone/Application/Admin/Controller/" (22127 48455 91636 49000) "ConfigController.class.php" "ActionController.class.php" "CategoryModel.class.php" "CategoryController.class.php" "AdminController.class.php" "../" "DatabaseController.class.php" "AddonsController.class.php" "FileController.class.php" "IndexController.class.php" "ThinkController.class.php" "ModelController.class.php" "UserController.class.php" "AloneController_old.class.php" "ChannelController.class.php" "./" "AloneController.class.php" "PublicController.class.php" "MenuController.class.php" "QiniuController.class.php" "AuthManagerController.class.php" "ArticleController.class.php" "AttributeController.class.php" "OrderController.class.php")
+
+ ("/home/neo/" (22127 24446 788001 174000) "文档/" ".drush/" "deja-dup/" "模板/" ".sunpinyin/" ".pki/" ".wiznote/" ".thunderbird/" ".qt/" ".PyCharm50/" ".xinputrc" ".purple/" ".spacemacs" ".dbus/" "下载/" ".gconf/" ".gnome/" ".mozilla/" ".sudo_as_admin_successful" "音乐/" ".Xauthority" ".gstreamer-0.10/" ".gnome2/" "../" ".xsession-errors" ".gnupg/" ".thumbnails/" ".kde/" ".WebIde100/" ".composer/" "workplace/" ".ICEauthority" ".gnome2_private/" ".bash_history" "视频/" ".cscope.vim/" ".local/" ".profile" ".bash_logout" "公共的/" "mozilla.pdf" ".aliedit/" ".kchmviewer/" ".vimperator/" ".viminfo" ".emacs.d/" ".java/" ".compiz/" ".cache/" ".xsession-errors.old" ".ssh/" ".xchm" ".gSTM/" ".presage/" "./" "soft/" ".bashrc" ".kingsoft/" ".adobe/" ".vim/" "examples.desktop" ".putty/" "桌面/" ".idlerc/" ".gimp-2.8/" "未命名文件夹/" ".config/" ".gvfs/" "图片/" ".macromedia/")
+
+ ("/var/www/" (22059 33536 776689 172000) "../" "./" "html/")
+
+ ("/var/" (22059 33536 776689 172000) "lock/" "crash/" "backups/" "opt/" "../" "www/" "local/" "log/" "run/" "cache/" "mail/" "tmp/" "lib/" "metrics/" "./" "spool/")
+
+ ("/var/www/html/work/cn-plusone/Application/Home/Conf/" (22001 18032 0 0) "tags.php" "../" "config.php" "./")
+
+ ("/var/www/html/work/cn-plusone/Application/Home/View/default/Member/" (22015 32477 0 0) "favorites.html" "supplymanege.html" "supplycategoryadd.html" "index.html" "supplycategory.html" "servicemanege.html" "affiliatewdxj.html" "translateview.html" "templet.html" "epromotion.html" "profile.html" "advmanegeview.html" "quotedview.html" "personal.html" "advmanege.html" "purchaserelease.html" "../" "header.html" "caserelease.html" "discuss.html" "interventionview.html" "infornext.html" "servicewdxj.html" "recharge.html" "templetsetup.html" "intervention.html" "quotedwdxj.html" "proxywdxj.html" "proxyview.html" "casemanege.html" "mailinfo.html" "discussview.html" "affiliatemanege.html" "template.html" "join.html" "affiliateview.html" "supplyrelease.html" "rechargedetails.html" "mail.html" "inquirymanege.html" "inquiryview.html" "proxymanege.html" "translate.html" "epromotionview.html" "information.html" "adv.html" "contact.html" "albumsadd.html" "integration.html" "meeting.html" "footer.html" "./" "meetingview.html" "quotedmanege.html" "standard.html" "sidebar.html" "purchasemanege.html" "serviceview.html" "inquirywdxj.html" "car.html" "albums.html" "information_view.html" "standardview.html")
+
+ ("/var/www/html/work/cn-plusone/Application/Home/View/default/" (22027 65226 0 0) "Company/" "Index/" "Pay/" "../" "Member/" "User/" "Base/" "Public/" "Companypublic/" "./")
+
+ ("/var/www/html/work/cn-plusone/Application/Home/View/" (21996 43545 0 0) "back/" "../" "default/" "./")
+
+ ("/var/www/html/work/cn-plusone/Application/Home/" (22030 38270 0 0) "Controller/" "Conf/" "../" "Widget/" "Lang/" "Logic/" "./" "View/" "Common/" "Model/")
+
+ ("/var/www/html/work/cn-plusone/Application/Admin/View/default/" (21996 43545 0 0) "Qiniu/" "Action/" "Addons/" "Article/" "Category/" "Index/" "../" "Channel/" "User/" "Menu/" "AuthManager/" "Public/" "Attribute/" "Think/" "Config/" "Order/" "./" "Database/" "Alone/" "Model/")
+
+ ("/var/www/html/work/cn-plusone/Application/Admin/View/" (21996 23811 0 0) "../" "default/" "./" "japan/")
+
+ ("/var/www/html/work/cn-plusone/Application/Admin/" (21996 43545 0 0) "Controller/" "Conf/" "../" "Lang/" "Logic/" "./" "View/" "Common/" "Model/")
+
+ ("/var/www/html/work/cn-plusone/Application/" (22063 5241 258748 454000) "Runtime/" ".DS_Store" "../" "User/" "Install/" "Admin/" "./" "Common/" "Home/")
+
+ ("/var/www/html/laravel/learnlaravel5/resources/views/_layout/" (22117 11834 341305 293000) "default.blade.php" "../" "./")
+
+ ("/var/www/html/test/" (22117 10180 98841 155000) "test.php" "A.php" "en_US.csv" "../" "cached-files/" "./" "B.php")
+
+ ("/home/neo/.emacs.d/elpa/yasnippet-20151108.1505/snippets/php-mode/" (22116 61160 853023 571000) "class~" "body" "img" "h2" "php~" "../" "var" "php" "head" "class" "divc" "function" "doctypet" "fore" "doctype" "./" "html" "a" "p" "function~" "html~" "h1" "div")
+
+ ("/home/neo/.emacs.d/" (22116 60954 327159 515000) "custom.el" "LICENSE" ".agignore" "elpa/" ".git/" ".mc-lists.el" ".session" ".emacs.desktop" ".travis.yml" "README.md" "recentf" ".emacs.desktop.lock" "../" "var/" "history" "auto-save-list/" "init.el" ".gitignore" "ditaa0_9.jar" "org-clock-save.el" "tutorial/" "ac-comphist.dat" "./" "ido.last" ".smex-items" "lisp/" "site-lisp/" "test-startup.sh")
+
+ ("/var/www/html/laravel/learnlaravel5/resources/" (21777 53744 0 0) "views/" "lang/" "assets/" "../" "./")
+
+ ("/var/www/html/laravel/learnlaravel5/database/" (21777 53744 0 0) "seeds/" "../" ".gitignore" "./" "migrations/")
+
+ ("/var/www/html/laravel/learnlaravel5/public/" (21777 53744 0 0) "robots.txt" ".htaccess" "../" "index.php" "css/" "fonts/" "./" "favicon.ico")
+
+ ("/var/www/html/drupal/" (22098 54439 870426 749000) "无标题文档~" "../" "drupal-8.0.0.zip" "drupal8_tu/" "drupal8/" "./")
+
+ ("/var/www/html/drupal/drupal8_tu/" (22094 28973 53017 0) "example.gitignore" ".csslintrc" "themes/" ".editorconfig" "sites/" "robots.txt" "core/" ".htaccess" ".eslintignore" "../" "composer.json" "index.php" "update.php" "LICENSE.txt" "README.txt" ".eslintrc" "./" "autoload.php" "vendor/" "modules/" ".gitattributes" "composer.lock" "web.config" "profiles/")
+
+ ("/var/www/html/lavarel/learnlaravel5/public/" (21777 53744 0 0) "robots.txt" ".htaccess" "../" "index.php" "css/" "fonts/" "./" "favicon.ico")
+
+ ("/var/www/html/work/cn-plusone/" (22100 11765 233487 878000) "Addons/" "tags" "log.txt" "Uploads/" "Runtime/" "robots.txt" "plusone.conf" ".htaccess" "../" "phpmyadmin/" "init.sql" "index.php" "logo.png" "Public/" "./" "jp-plusone/" "ueditor/" ".idea/" "Note.php" "ThinkPHP/" "Application/")
+
+ ("/var/www/html/lavarel/learnlaravel5/" (22101 10459 658338 839000) "storage/" "phpspec.yml" ".env.example" ".env" "../" "composer.json" "artisan" "database/" "package.json" ".gitignore" "app/" "server.php" "gulpfile.js" "tests/" "./" "resources/" "vendor/" "bootstrap/" ".gitattributes" "readme.md" "composer.lock" "config/" "phpunit.xml" "public/")
+
+ ("/var/www/html/lavarel/" (22101 11146 24544 522000) "../" "learnlaravel5/" "key~" "./" "key")
+
+ ("/home/neo/.emacs.d/elpa/yasnippet-20151108.1505/snippets/" (22098 55398 753436 854000) "conf-unix-mode/" "LICENSE" ".nosearch" "html-mode/" "groovy-mode/" "scala-mode/" "ensime-mode" "elixir-mode/" "go-mode/" "erc-mode/" "udev-mode/" "ruby-mode/" "cmake-mode/" "f90-mode/" "org-mode/" "lisp-mode/" "perl-mode/" "README.md" "lua-mode/" "nesc-mode/" "enh-ruby-mode" "sh-mode/" "css-mode/" "haskell-mode/" "octave-mode/" "makefile-automake-mode/" "latex-mode/" "cperl-mode/" "rst-mode/" "../" "clojure-mode/" "js-mode/" "malabar-mode/" "rename_add_contr.py" "m4-mode/" "makefile-gmake-mode/" "git-commit-mode/" "tuareg-mode/" "markdown-mode/" "fundamental-mode/" "nxml-mode/" "lisp-interaction-mode/" "applescript-mode/" ".gitignore" "ned-mode/" "emacs-lisp-mode/" "CONTRIBUTORS.txt" "cc-mode/" "makefile-bsdmake-mode/" "yaml-mode/" "c-mode/" "snippet-mode/" "chef-mode/" "antlr-mode/" "./" "cider-repl-mode" "erlang-mode/" "text-mode/" "snippets/" "python-mode/" "sql-mode/" "typerex-mode" "csharp-mode/" "nsis-mode/" "java-mode/" "makefile-mode/" "php-mode/" "c++-mode/" "js2-mode" "cpp-omnet-mode/" "prog-mode/")
+
+ ("/home/neo/.emacs.d/elpa/yasnippet-20151108.1505/" (22098 30171 478220 221000) "../" "yasnippet-autoloads.el" "./" "snippets/" "yasnippet-pkg.el" "yasnippet.el")
+
+ ("/home/neo/.emacs.d/elpa/" (22098 48990 775395 107000) "magit-gh-pulls-20151118.811/" "cl-lib-highlight-20140127.1312/" "let-alist-1.0.4/" "seq-20151121.1017/" "ruby-hash-syntax-20141010.839/" "js2-mode-20151116.1709/" "skewer-mode-20150914.1304/" "project-local-variables-20080502.952/" "yasnippet-20151108.1505/" "ac-inf-ruby-20131115.350/" "highlight-symbol-20151005.451/" "switch-window-20150114.215/" "pip-requirements-20150423.1358/" "fullframe-20140619.305/" "github-browse-file-20151112.1625/" "anzu-20151015.405/" "gh-20150906.848/" "rinari-20150708.2340/" "findr-20130824.507/" "scss-mode-20150107.1400/" "git-messenger-20150314.602/" "s-20150924.406/" "flycheck-elm-20150928.503/" "cljsbuild-mode-20140619.126/" "bug-reference-github-20131202.1303/" "epl-20150517.433/" "github-clone-20150705.1705/" "guide-key-20150107.2235/" "org-fstree-20090723.819/" "elein-20120120.316/" "log4e-20150105.505/" "skewer-less-20131015.622/" "gnupg/" "ibuffer-vc-20150714.1320/" "rainbow-delimiters-20150320.17/" "json-snatcher-20150511.2047/" "json-reformat-20151007.1728/" "sr-speedbar-20150804.951/" "ghci-completion-20140316.2331/" "auto-compile-20151107.1408/" "gitconfig-mode-20150330.1048/" "sass-mode-20150508.2012/" "yagist-20150425.551/" "smarty-mode-20100703.458/" "pkg-info-20150517.443/" "rainbow-mode-0.12.signed" "color-theme-sanityinc-solarized-20150803.1420/" "hayoo-20140831.521/" "mwe-log-commands-20100703.541/" "hippie-expand-slime-20130907.132/" "js-comint-20080530.757/" "unfill-20131103.213/" "ido-ubiquitous-20151121.1415/" "auto-complete-20151112.2030/" "queue-0.1.1/" "browse-kill-ring-20150829.632/" "less-css-mode-20150511.319/" "tabbar-20141109.143/" "git-blame-20110509.926/" "dsvn-20130120.1257/" "csv-mode-1.5/" "ac-slime-20150729.2035/" "gitignore-mode-20150330.1048/" "yari-20150804.2247/" "paredit-everywhere-20150821.2144/" "logito-20120225.1255/" "ruby-compilation-20150708.2340/" "flycheck-ledger-20140605.1146/" "php-mode-20151002.2030/" "whitespace-cleanup-mode-20150603.447/" "aggressive-indent-20151025.743/" "undo-tree-20140509.522/" "async-20151120.228/" "haskell-mode-20151120.810/" "inf-ruby-20151104.1237/" "git-commit-20151111.418/" "ac-cider-20151012.308/" "rainbow-mode-0.12/" "redshank-20120510.1230/" "slime-20151118.1044/" "markdown-mode-20151108.735/" "spinner-1.4.signed" "haml-mode-20150508.2011/" "avy-20151115.837/" "elm-mode-20151121.224/" "flycheck-haskell-20151010.340/" "packed-20150723.438/" "yaml-mode-20150816.2235/" "paredit-20150217.713/" "flycheck-20151117.439/" "elisp-slime-nav-20150805.1248/" "csv-mode-1.5.signed" "sql-indent-20150424.1716/" "erlang-20151013.157/" "cider-20151122.443/" "robe-20151119.1458/" "popup-20150626.711/" "archives/" "dash-20151021.113/" "tagedit-20150727.224/" "json-mode-20151116.2000/" "darcsum-20140315.2110/" "color-theme-sanityinc-tomorrow-20150803.1419/" "spinner-1.4/" "ac-js2-20140906.442/" "wgrep-20141016.1656/" "page-break-lines-20150226.817/" "textile-mode-20120721.1258/" "popwin-20150315.600/" "dired+-20151110.921/" "diminish-20091203.1012/" "f-20151113.123/" "diff-hl-20151120.1715/" "gntp-20141024.1950/" "flycheck-clojure-20150831.631/" "ipretty-20140406.2220/" "coffee-mode-20151019.2009/" "inflections-20121016.157/" "expand-region-20150902.558/" "simple-httpd-20150430.1755/" "alert-20151018.912/" "fill-column-indicator-20151030.1233/" "hl-sexp-20101130.443/" "w3m-20151013.327/" "with-editor-20151111.418/" "highlight-escape-sequences-20150729.1910/" "scratch-20120830.1028/" "dired-sort-20090208.2038/" "magit-popup-20151119.201/" "css-eldoc-20150124.1923/" "git-timemachine-20151004.2229/" "regex-tool-20131104.1434/" "org-pomodoro-20151020.407/" "session-20120510.1700/" "gnuplot-20141231.1337/" "whole-line-or-region-20110901.130/" "exec-path-from-shell-20151121.1359/" "ac-haskell-process-20150423.702/" "smex-20150822.1146/" "crontab-mode-20090510.1355/" "jump-20151009.129/" "idomenu-20141123.1320/" "macrostep-20151001.2043/" "highlight-quoted-20140916.1122/" "magit-20151120.748/" "csv-nav-20130407.1120/" "default-text-scale-20150227.956/" "flycheck-package-20151029.1138/" "move-dup-20140925.808/" "flycheck-hdevtools-20150329.323/" "clojure-mode-20151115.312/" "multiple-cursors-20150710.456/" "ledger-mode-20151026.1542/" "let-alist-1.0.4.signed" "pcache-20151109.639/" "lively-20120728.713/" "htmlize-20130207.1202/" "mmm-mode-20150828.1716/" "vc-darcs-20141122.1326/" "lua-mode-20151025.530/" "tidy-20111222.956/" "ido-completing-read+-20151121.1415/" "queue-0.1.1.signed" "../" "./")
+
+ ("/var/www/html/work/" (22098 54400 782375 955000) "../" "./" "cn-plusone/")
+
+ ("/var/www/html/work/cn-plusone/Addons/Acquisition/" (21996 43545 0 0) "Controller/" "demo.php" "../" "config.php" "AcquisitionAddon.class.php" "./" "View/" "Model/" "adminlist.html")
+
+ ("/var/www/html/work/cn-plusone/Addons/" (21996 43545 0 0) "Attachment/" "Editor/" "Acquisition/" "../" "QuickLogin/" "SystemInfo/" "Mailer/" "EditorForAdmin/" "Import/" "DevTeam/" "Comment/" "SiteStat/" "SocialComment/" "Batch/" "./" "ImportExcel/")
+
+ ("/home/neo/文档/org/" (22098 34468 160891 422000) "orgmode.org" "../" "./")
+
+ ("/home/neo/文档/" (22098 34158 585744 326000) "共享/" "org/" "thinkphp_3.2.3_full.zip" "../" "thinkphp/" "drupal/" "./" "magento2/" "emacs/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

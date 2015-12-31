@@ -1,0 +1,7 @@
+#contributor : Satoshi Nishimura <nishim314@gmail.com>
+#name : divc
+#group : control structure
+# --
+<div class="$1">
+    $2
+</div>

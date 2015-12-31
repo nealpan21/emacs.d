@@ -1,0 +1,7 @@
+#contributor : Satoshi Nishimura <nishim314@gmail.com>
+#name : html
+#group : control structure
+# --
+<html>
+   $0
+</html>

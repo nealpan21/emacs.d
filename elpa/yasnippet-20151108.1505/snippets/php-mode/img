@@ -1,0 +1,5 @@
+#contributor : Satoshi Nishimura <nishim314@gmail.com>
+#name : img
+#group : control structure
+# --
+<img src="$0" width="$1" height="$2" />

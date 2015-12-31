@@ -1,0 +1,5 @@
+#contributor : Satoshi Nishimura <nishim314@gmail.com>
+#name : var
+#group : control structure
+# --
+var_dump($0);

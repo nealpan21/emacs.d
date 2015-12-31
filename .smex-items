@@ -1,0 +1,24 @@
+
+;; ----- smex-history -----
+(
+ package-install
+ sr-speedbar-open
+ speedbar
+ indent-according-to-mode
+ customize
+ package-list-packages
+ package-refresh-contents
+)
+
+;; ----- smex-data -----
+(
+ (load-theme . 1)
+ (package-list-packages . 3)
+ (customize . 5)
+ (package-refresh-contents . 1)
+ (package-install . 5)
+ (sr-speedbar-open . 4)
+ (sr-speedbar-close . 2)
+ (indent-according-to-mode . 1)
+ (speedbar . 1)
+)
